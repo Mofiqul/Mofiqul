@@ -28,6 +28,12 @@
 ## 📚 Currently Learning 
 - GTK development
 - Elixir
+## How to reach me
+- Email: mofiqul.n@gmail.com
+- Twitter: https://twitter.com/lazydev009
+- Instagram: https://www.instagram.com/lazydev009/
+
+
 ## Others
 ![Mofiqul's github stats](https://github-readme-stats.vercel.app/api?username=Mofiqul&show_icons=true)
  
