@@ -17,7 +17,7 @@
 
 
 ## 🧰 Technologies I use
-`React` `Vue` `React Native` `Flutter` `ExpressJs` `Arduino` `PlatformIO` `NodeJS` `Git` `NginX` `Apache` `Linux` `Django` `Laravel` `Terraform` `Github Actions` `Postgres` `MongoDb` `MySql` `Docker` `AWS` 
+`React` `Vue` `React Native` `Flutter` `ExpressJs` `NextJS` `Arduino` `PlatformIO` `NodeJS` `Git` `NginX` `Apache` `Linux` `Django` `Laravel` `Terraform` `Github Actions` `Postgres` `MongoDb` `MySql` `Docker` `AWS` 
 
 ## 👷 Work Experiences
 - Software Engineer at Agrithinks Services LLP, Guwahati, Assam - 2019 to currently
