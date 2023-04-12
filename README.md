@@ -2,8 +2,8 @@
 #### I am Mofiqul, A Full-Stack Developer from Guwahati, Assam, India. A fan boy of Linux and Open Source and I code using only Neovim. And I also think that life is too short to code in JAVA.
 
 ## 🕐 Currently Working
-- Developing OTT platform at Righthemisphere, Guwahati, Assam, India
-- Developing automated soil  testing and soil health monitoring system at Agrithink Services LLP, Guwahati, Assam   
+- Developing OTT platform at Righthemisphere, Guwahati, Assam, India   
+
 ## ❤️ Technologies I love 
 - Front End and Back End Web developing
 - Mobile Development
