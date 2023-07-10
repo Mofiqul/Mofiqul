@@ -2,7 +2,7 @@
 #### I am Mofiqul, A Full-Stack Developer from Guwahati, Assam, India. A fan boy of Linux and Open Source and I code using only Neovim. And I also think that life is too short to code in JAVA.
 
 ## 🕐 Currently Working
-- Developing OTT platform at Righthemisphere, Guwahati, Assam, India   
+- Developing OTT platform at Skara, Guwahati, Assam, India   
 
 ## ❤️ Technologies I love 
 - Front End and Back End Web developing
@@ -20,14 +20,15 @@
 `React` `Vue` `React Native` `Flutter` `ExpressJs` `NextJS` `Arduino` `PlatformIO` `NodeJS` `Git` `NginX` `Apache` `Linux` `Django` `Laravel` `Terraform` `Github Actions` `Postgres` `MongoDb` `MySql` `Docker` `AWS` 
 
 ## 👷 Work Experiences
-- Software Engineer at Agrithinks Services LLP, Guwahati, Assam - 2019 to currently
+- Senior Software Engineer at Skara, Guwahati, Assam - currently
+- Software Engineer at Agrithinks Services LLP, Guwahati, Assam - 2019 to 2022
 - Software Engineer at Trans Technologies Solutions Pvt. Ltd. Guwahati, Assam - 2017 to 2020
 - Web developer at Swastik System Software, Guwahati, Assam - 2015 to 2016
 - Web developer at E Media Web Solutions, Noida, India - 2014 to 2015
 
 ## 📚 Currently Learning 
-- GTK development
-- Elixir
+- Zig
+- Ocaml
 ## How to reach me
 - Email: mofiqul.n@gmail.com
 - Twitter: https://twitter.com/lazydev009
