@@ -29,13 +29,11 @@
 ## 📚 Currently Learning 
 - Zig
 - Ocaml
+
 ## How to reach me
 - Email: mofiqul.n@gmail.com
-- Twitter: https://twitter.com/lazydev009
-- Instagram: https://www.instagram.com/lazydev009/
+- Twitter: https://twitter.com/_mofiqul
+- Instagram: https://www.instagram.com/_mofiqul
 
-
-## Others
-![Mofiqul's github stats](https://github-readme-stats.vercel.app/api?username=Mofiqul&show_icons=true)
  
  
